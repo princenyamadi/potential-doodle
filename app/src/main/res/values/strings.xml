@@ -2,7 +2,7 @@
     <string name="app_name">Widget Practice Skeleton</string>
 
     <string name="str_name">name</string>
-    <string name="str_age_tools">Age : 30</string>
+    <string name="str_age">Age : %d</string>
     <string name="str_weight">Weight :</string>
     <string name="str_hint_weight">weight</string>
     <string name="str_man">man</string>
